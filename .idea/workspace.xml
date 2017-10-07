@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc455361-7ac1-4a1f-b6ae-74d5fae3b929" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" />
-    </list>
+    <list default="true" id="cc455361-7ac1-4a1f-b6ae-74d5fae3b929" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,7 +66,8 @@
     <handled-path value="$PROJECT_DIR$/app/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="371" />
+    <option name="x" value="6" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="712" />
   </component>
@@ -215,7 +214,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="371" width="1280" height="712" extended-state="0" />
+    <frame x="6" y="23" width="1280" height="712" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
